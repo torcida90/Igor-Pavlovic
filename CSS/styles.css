@@ -1,0 +1,178 @@
+body {
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 1rem;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #CEA54B;
+  font-size: 6.75rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 5.0625rem;
+}
+
+h3 {
+  color: white;
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+
+hr {
+  color: white;
+  border: dotted;
+  border-width: 20px 0 0 0;
+  margin: 150px auto;
+  width: 10%;
+}
+
+.top-container {
+  background-color: #ffeecf;
+  min-height: 100vh;
+  padding: 3% 3% 0 3%;
+}
+
+.sun {
+  height: 20%;
+  position: absolute;
+  left: 1%;
+  top: 2%;
+}
+
+.top-cloud {
+  height: 30%;
+  position: absolute;
+  right: 3%;
+  top: 3%;
+}
+
+.bottom-cloud {
+  height: 20%;
+  position: absolute;
+  left: 10%;
+  top: 10%;
+}
+
+.tree-one {
+  height: 30%;
+  bottom: 30%;
+  left: 10%;
+  position: absolute;
+}
+
+.tree-two {
+  height: 40%;
+  bottom: 10%;
+  right: 10%;
+  position: absolute;
+}
+
+.stone-left {
+  height: 160px;
+  bottom: 25%;
+  left: 10%;
+  position: absolute;
+}
+
+.lion {
+  border-radius: 50%;
+  height: 300px;
+  margin-bottom: 120px;
+  margin-top: 50px;
+}
+
+.stone-right {
+  height: 200px;
+  bottom: 5%;
+  right: 10%;
+  position: absolute;
+}
+
+.middle-container {
+  background-color: #21429A;
+  padding-top: 5%;
+}
+
+.profile {
+  width: 30%;
+  margin: 0 auto 7% auto;
+  padding: 10% auto 5% auto;
+}
+
+.Igor {
+  border-radius: 50%;
+}
+
+.finance {
+  float: left;
+  margin-right: 60px;
+  width: 25%;
+}
+
+.it {
+  float: right;
+  margin-left: 60px;
+  width: 25%;
+}
+
+.marketing {
+  float: left;
+  margin-right: 60px;
+  width: 25%;
+}
+
+.skill-row {
+  margin: 120px auto 120px auto;
+  line-height: 1.6;
+  text-align: left;
+  width: 50%;
+}
+
+.contact {
+  line-height: 1.6;
+  margin: auto;
+  padding-bottom: 180px;
+  width: 30%;
+}
+
+.btn {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  color: #CEA54B;
+  font-family: 'Work Sans';
+  font-size: 24px;
+  font-weight: 700;
+  padding: 30px;
+  background-color: #FFFFFF;
+  border: solid #CEA54B 2px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  margin-top: 50px;
+}
+
+.bottom-container {
+  background-color: white;
+  margin: 30px auto 10px auto;
+}
+
+.footer-link {
+  font-size: 1.2rem;
+  color: #CEA54B;
+}
+
+.linkedin {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.website {
+  display: inline-block;
+  margin-left: 20px;
+}
